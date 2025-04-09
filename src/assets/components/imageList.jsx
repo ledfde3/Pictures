@@ -1,9 +1,9 @@
 
 
-const imageList = () => {
+const ImageList = () => {
   return (
-    <div>imageList</div>
+    <div>ImageList</div>
   )
 }
 
-export default imageList
+export default ImageList
