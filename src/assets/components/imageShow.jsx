@@ -1,8 +1,10 @@
 
-
-const ImageShow = () => {
+const ImageShow = ({image}) => {
   return (
-    <img src="(image.urls.small" alt="{image.alt_descrption}" />
+    <div>
+      <img src={image.urls.small} alt={image.alt_description} />
+      
+    </div>
   )
 }
 
