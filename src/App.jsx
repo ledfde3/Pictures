@@ -8,7 +8,7 @@ function App() {
     <>
       <h1>Pictures Apps</h1>
       <SearchBar/>
-      <imageList/>
+      <ImageList/>
     </>
   )
 }
